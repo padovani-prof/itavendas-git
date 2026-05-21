@@ -1,0 +1,5 @@
+identificador,texto_inicial,texto_final,url,ordem,tipo
+secao_onde_novo,Novo no,Extra,https://www.mercadolivre.com.br,1,NOVO
+secao_onde_usado,Usado no,Extra,https://www.mercadolivre.com.br,2,USADO
+secao_onde_compra,Comprado em,Loja local,https://www.google.com,3,ONDE
+secao_garantia,Informações,Adicionais,https://www.exemplo.com,4,OUTRO
