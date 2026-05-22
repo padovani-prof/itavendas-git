@@ -126,7 +126,7 @@ async function carregarPagina(tipo) {
     await carregarDados();
     
     // Preencher informações do header
-    document.getElementById('nomeSite').textContent = parametros.NOMESITE || 'Carregando...';
+    document.getElementById('nomeSite').innerHTML = parametros.NOMESITE || 'Carregando...';
     document.getElementById('telefones').textContent = parametros.TELEFONES || '';
     
     const linkFacebook = document.getElementById('linkFacebook');
